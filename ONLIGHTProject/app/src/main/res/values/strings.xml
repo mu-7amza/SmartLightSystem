@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ONLIGHT-Project</string>
+    <string name="on_light_dashboard">Dashboard</string>
+    <string name="feature_one">Solar Energy</string>
+    <string name="feature_two">ON / OFF</string>
+    <string name="feature_three">Monitoring</string>
+    <string name="feature_four">Check Damage</string>
+    <string name="feature_five">Synchronization</string>
+    <string name="feature_six">Settings</string>
+    <string name="sign_up_title" translatable="false">Sign Up</string>
+
+    <string name="next_btn" translatable="false">Next</string>
+    <string name="login_tx">login</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="manger_name">Manager Name</string>
+    <string name="id_manager">ID-Manager</string>
+    <string name="synchronization">Synchronization</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="on_modify">ON</string>
+</resources>
